@@ -1,0 +1,9 @@
+{
+  "id": "sword_of_dawn",
+  "name": "Legendarne Ostrze Świtu",
+  "damage": 75,
+  "type": "Miecz",
+  "rarity": "legendary",
+  "priceInGold": 1200,
+  "description": "Miecz wykuty ze stali nie z tego świata."
+}
